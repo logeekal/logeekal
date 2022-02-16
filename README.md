@@ -11,8 +11,8 @@ If you need any help with React.js, JS/TS or any area in web development, give m
 
 <table style="border: 0;">
     <tr style="width:50%; border:0px">
-        <th style="border: 0;">Loudrr</th>
-        <th style="border: 0;">Kitchen of Married Friends</th>
+        <th style="border: 0;">Loudrr (<a target="blank" href="https://github.com/logeekal/loudrr">Source</a>)</th>
+        <th style="border: 0;">Kitchen of Married Friends (<a target="blank" href="https://github.com/logeekal/married-friends">Source</a>)</th>
     </tr>
     <tr style="border:0">
         <td style="width:50%; padding:0; margin:0">
@@ -27,7 +27,7 @@ If you need any help with React.js, JS/TS or any area in web development, give m
                     <li>Neo4j as the Graph database</li>
                     <li>Jest/ react testing library for testing</li>
                     <li>Github actions as the deployment Engined for CI/CD</li>
-                </ul>
+                </ul>    
             </div>
         </td>
         <td style="padding: 0; margin: 0; width:50%">

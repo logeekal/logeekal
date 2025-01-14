@@ -1,4 +1,4 @@
-# Hey there 
+# Hey there 👋🏽👋🏽
 
 I am Jatin, currently working as Frontend Engineer at Ansys Software Pvt Ltd. I love to create great user experiences and products in my free time.  You can also find me on all social media platforms as logeekal.
 

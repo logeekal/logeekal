@@ -34,15 +34,16 @@ If you need any help with React.js, JS/TS or any area in web development, give m
             <img src="https://backend.marriedfriends.in/wp-content/uploads/2021/03/logo_transparent.png" style="width: 70px; margin: 0;" alt="logo of married friends" />
             <br />
            <p style="margin:0">
-           <a href="https://marriedfriends.in">Kitchen of Married Friends</a> is a recipe blog maintained by wife and created by me. It is statically rendered in Gatsby.js. Do visit us in case you a looking for a great vegetarian/vegan recipes.</p>
+           <a href="https://thefearlesscooking.com">The Fearless Cooking</a> is a recipe blog maintained by wife and created by me. It is statically rendered in Next.js. Do visit us in case you a looking for a great vegetarian/vegan recipes.</p>
            <br />
            It uses:
            <div>
                 <ul>
-                    <li> <a href="https://loudrr.app">Loudrr </a> as its commenting engine.</li>
-                    <li>Netlify functions to helps users subscribe with integration to MailChimp</li>
-                    <li>Gatsby.js to Server render the all the pages</li>
-                    <li>Wordpress as backend and Image CDN</li>
+                    <li> Use custom build AB Testing to display different Banners and CTAs.</li>
+                    <li> Uses custom commenting engine.</li>
+                    <li> Netlify functions to help users subscribe with integration to MailChimp</li>
+                    <li> Next.js to pre-render the all the pages</li>
+                    <li> Wordpress as backend and Image CDN</li>
                 </ul>
             </div>
         </td>

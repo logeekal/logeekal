@@ -12,13 +12,11 @@ If you need any help with React.js, JS/TS or any area in web development, give m
 <table style="border: 0;">
     <tr style="width:50%; border:0px">
         <th style="border: 0;">Loudrr (<a target="blank" href="https://github.com/logeekal/loudrr">Source</a>)</th>
-        <th style="border: 0;">Kitchen of Married Friends (<a target="blank" href="https://github.com/logeekal/married-friends">Source</a>)</th>
+        <th style="border: 0;">The Fearless Cooking (<a target="blank" href="https://github.com/logeekal/the_fearless_cooking/">Source</a>)</th>
     </tr>
     <tr style="border:0">
         <td style="width:50%; padding:0; margin:0">
-            <img src="https://loudrr.app/assets/logo/logo-transparent.svg" alt="loudrr logo" style="width: 100px;" />
-            <br />
-            <p style="margin: 0;"><a href="https://loudrr.app">Loudrr </a> is completely opensource and SaaS commenting engine which can be use in statically rendered blogs or e-commerce engine.</p>
+            <p style="margin: 0;"><a href="https://loudrr.app">Loudrr </a> is completely opensource and SaaS commenting engine which can be use in statically rendered blogs or e-commerce engine. Here is a <a href="https://logeekal.hashnode.dev/introducing-loudrr-not-just-another-commenting-engine">Primer</a> on it. </p>
             <div style="margin: 0;">
                 It is based on:
                 <ul>
@@ -31,8 +29,6 @@ If you need any help with React.js, JS/TS or any area in web development, give m
             </div>
         </td>
         <td style="padding: 0; margin: 0; width:50%">
-            <img src="https://backend.marriedfriends.in/wp-content/uploads/2021/03/logo_transparent.png" style="width: 70px; margin: 0;" alt="logo of married friends" />
-            <br />
            <p style="margin:0">
            <a href="https://thefearlesscooking.com">The Fearless Cooking</a> is a recipe blog maintained by wife and created by me. It is statically rendered in Next.js. Do visit us in case you a looking for a great vegetarian/vegan recipes.</p>
            <br />

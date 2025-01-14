@@ -16,7 +16,7 @@ If you need any help with React.js, JS/TS or any area in web development, give m
     </tr>
     <tr style="border:0">
         <td style="width:50%; padding:0; margin:0">
-            <p style="margin: 0;">Loudrr ( now defunct ) was a completely open-source and SaaS commenting engine which can be use in statically rendered blogs or e-commerce engine. Here is a <a href="https://logeekal.hashnode.dev/introducing-loudrr-not-just-another-commenting-engine">Primer</a> on it. </p>
+            <p style="margin: 0;">Loudrr ( now defunct ) was a completely open-source and SaaS commenting engine which can be used in statically rendered blogs or e-commerce engine. Here is a <a href="https://logeekal.hashnode.dev/introducing-loudrr-not-just-another-commenting-engine">Primer</a> on it. </p>
             <div style="margin: 0;">
                 It is based on:
                 <ul>
